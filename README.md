@@ -1,4 +1,4 @@
-## Examples of OOP Flyweight (Structural) Design Pattern in JS
+## Example of OOP Flyweight (Structural) Design Pattern in JS
 
   Install dependencies:
 
